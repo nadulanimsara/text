@@ -5,8 +5,7 @@ public class Room{
 	}
 	public void showAllDevices(){
 		
-	}
-	public void activeAll(){
+
 		
 	}
 }
